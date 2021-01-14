@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Compile
+gcc party.c -o party -lpthread
+
+
+#run commands 
+#./party -s 12 -t 3 -m 10
